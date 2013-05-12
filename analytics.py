@@ -26,7 +26,7 @@ def wordYrFreq(word):
 				pstring.append(0)
 	return pstring
 	
-# return the yrs in which these words were detected..
+# return the yrs in which these words were detected 
 # example input: ['Vitamins', 'Leak']
 # example output: {'Leak': [2003], 'Vitamins': [1992]}
 # dependency: inverted_index_times.dict
